@@ -24,7 +24,7 @@ public class WebcamDisplay : MonoBehaviour
         panelRect.anchorMax = new Vector2(0, 1);
         panelRect.pivot = new Vector2(0, 1);
         panelRect.anchoredPosition = new Vector2(10, -10);
-        panelRect.sizeDelta = new Vector2(320, 240);
+        panelRect.sizeDelta = new Vector2(200, 150);
 
         rawImage = panelObj.AddComponent<RawImage>();
 
