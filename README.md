@@ -2,7 +2,7 @@
 
 A motion-tracked fitness game built in Unity that combines real-time pose detection with haptic feedback to create an interactive, guided workout experience for users of all motor abilities — inspired by Just Dance, designed for accessibility, with applications in astronaut training and human spaceflight.
 
-> **Built under the mentorship of [Dr. Tony Liao](https://www.tonyliao.me/) at the [CougAR Lab](https://www.tonyliao.me/lab), University of Houston.**
+> **Built under the mentorship of [Dr. Tony Liao](https://www.ist.uh.edu/faculty/liao-tony) at the [CougAR Lab](https://www.uhcougarlab.com/), University of Houston.**
 
 ## Demo
 
@@ -10,7 +10,7 @@ A motion-tracked fitness game built in Unity that combines real-time pose detect
 
 ## Motivation
 
-This project started from volunteering at [GiGi's Playhouse](https://gigisplayhouse.org/) Houston's fitness program, where I saw how movement-based activities can make a meaningful difference for individuals with Down syndrome. Participants were engaged and motivated by music and movement, but existing fitness games (Ring Fit, Just Dance) assume a baseline level of motor control that not everyone has. There was no way to provide real-time, body-level feedback that adapts to different abilities.
+This project started from volunteering at [GiGi's Playhouse](https://gigisplayhouse.org/sugarland/) Houston's fitness program, where I saw how movement-based activities can make a meaningful difference for individuals with Down syndrome. Participants were engaged and motivated by music and movement, but existing fitness games (Ring Fit, Just Dance) assume a baseline level of motor control that not everyone has. There was no way to provide real-time, body-level feedback that adapts to different abilities.
 
 I wanted to build something that:
 - Gives **immediate, physical feedback** (not just visual) so users know how they're doing without having to watch a screen
@@ -177,7 +177,7 @@ python pose_server.py
 
 ## Acknowledgments
 
-- **Dr. Tony Liao** and the [Cougar XR Lab](https://www.tonyliao.me/lab) at the University of Houston for research mentorship and lab access
+- **Dr. Tony Liao** and the [CougAR Lab](https://www.ist.uh.edu/faculty/liao-tony) at the University of Houston for research mentorship and lab access
 - **GiGi's Playhouse Houston** for the inspiration and the opportunity to work with an incredible community
 - **bHaptics** for the TactSuit hardware and SDK
 
