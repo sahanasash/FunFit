@@ -2,7 +2,7 @@
 
 A motion-tracked fitness game built in Unity that combines real-time pose detection with haptic feedback to create an interactive, guided workout experience for users of all motor abilities — inspired by Just Dance, designed for accessibility, with applications in astronaut training and human spaceflight.
 
-> **Built under the mentorship of [Dr. Tony Liao](https://www.tonyliao.me/) at the [Cougar XR Lab](https://www.tonyliao.me/lab), University of Houston.**
+> **Built under the mentorship of [Dr. Tony Liao](https://www.tonyliao.me/) at the [CougAR Lab](https://www.tonyliao.me/lab), University of Houston.**
 
 ## Demo
 
