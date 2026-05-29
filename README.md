@@ -187,4 +187,4 @@ MIT
 
 ## Contact
 
-Sahana — [GitHub](https://github.com/sahanasash) · [LinkedIn](https://www.linkedin.com/in/sahana-s-663342325/)
+Sahana Sashital — [GitHub](https://github.com/sahanasash) · [LinkedIn](https://www.linkedin.com/in/sahana-s-663342325/)
