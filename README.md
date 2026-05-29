@@ -6,7 +6,7 @@ A motion-tracked fitness game built in Unity that combines real-time pose detect
 
 ## Demo
 
-🎥 *[Demo video coming soon — shows both Strict and Lenient modes with real participants]*
+🎥 (https://youtu.be/N0lM1CcenaU)
 
 ## Motivation
 
